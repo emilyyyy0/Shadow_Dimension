@@ -9,7 +9,7 @@ import java.io.IOException;
 /**
  * SWEN20003 Project 1, Semester 2, 2022
  *
- * @author Tharun Dharmawickrema
+ * 
  */
 public class ShadowDimension extends AbstractGame {
     private final static int WINDOW_WIDTH = 1024;
